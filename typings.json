@@ -1,8 +1,0 @@
-{
-  "globalDependencies": {
-    "core-js": "registry:dt/core-js",
-    "systemjs": "registry:dt/systemjs",
-    "jasmine": "registry:dt/jasmine",
-    "node": "registry:dt/node"
-  }
-}
